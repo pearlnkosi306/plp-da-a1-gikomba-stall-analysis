@@ -1,6 +1,6 @@
 # Gikomba Market Stall Performance Analysis
 
-**Author:** [Your Full Name] · PLP Data Analytics [Cohort X]
+**Author:** [Buhle Pearl Nkosi] · PLP Data Analytics [Cohort PLP]
 
 ## Business Problem
 
