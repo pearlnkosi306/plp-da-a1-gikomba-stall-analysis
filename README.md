@@ -1,6 +1,6 @@
 # Gikomba Market Stall Performance Analysis
 
-**Author:** [Buhle Pearl Nkosi] · PLP Data Analytics [Cohort PLP]
+**Author:** [Buhle Pearl Nkosi] · PLP Data Analytics [1MillionDevs Cohort]
 
 ## Business Problem
 
@@ -8,7 +8,7 @@ Wanjiku runs a fresh-produce stall at Gikomba Market and has recorded her daily 
 
 ## How to Run
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-github-username>/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<pearlnkosi306>/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb)
 
 Open `stall_analysis.ipynb` in Google Colab and select Runtime → Run all.
 
